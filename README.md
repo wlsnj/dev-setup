@@ -15,5 +15,9 @@ You store dev config.
 - vim-plug
 - rust-analyzer (Homebrew)
 
+## Other Stuff
+
+- ohmyzsh (https://github.com/ohmyzsh/ohmyzsh)
+
 ## Resources 
 https://sharksforarms.dev/posts/neovim-rust/
